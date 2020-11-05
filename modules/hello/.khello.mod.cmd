@@ -1,0 +1,1 @@
+cmd_/home/aluno/linuxdistro/buildroot/modules/hello/khello.mod := { echo  /home/aluno/linuxdistro/buildroot/modules/hello/khello.o; echo; } > /home/aluno/linuxdistro/buildroot/modules/hello/khello.mod

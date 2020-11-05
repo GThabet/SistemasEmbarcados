@@ -1,0 +1,1 @@
+cmd_/home/aluno/linuxdistro/buildroot/modules/hello/built-in.a := rm -f /home/aluno/linuxdistro/buildroot/modules/hello/built-in.a; /home/aluno/linuxdistro/buildroot/output/../output/host/bin/arm-buildroot-linux-uclibcgnueabi-ar cDPrST /home/aluno/linuxdistro/buildroot/modules/hello/built-in.a 
